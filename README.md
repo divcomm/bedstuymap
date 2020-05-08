@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://collync.github.io/leaflet-maps-with-google-sheets/
+- Leaflet Map https://collync.github.io/bedstuymap/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1NvZeUXw2a-7qZB84ePbFC2jYCiaFNpZaOxCnotp8MlA/edit#gid=0
 
 ## Create your own
